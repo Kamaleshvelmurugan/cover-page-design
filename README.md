@@ -116,7 +116,7 @@ Write HTML and CSS herefor designing book cover page and execute them.
                 <hr style="color: indigo;">
             </div>
             <div class="author">
-               <p><b>BALA</b></p>
+               <p><b>KAMALESH</b></p>
             </div>
             <div class="pub">
                 SEC
@@ -129,11 +129,13 @@ Write HTML and CSS herefor designing book cover page and execute them.
 </html>
 ```
 
-## Output:
-![output](./book.png)
+## Output
+
+![Output](output.png)
 
 ## HTML Validator
-![HTML validator](./validator.png)
+
+![HTML validator](validator.png)
 
 ## Result:
 The Program for designing book cover page using HTML and CSS is executed Successfully.
